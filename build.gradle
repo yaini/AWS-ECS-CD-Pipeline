@@ -10,7 +10,7 @@ version '1.0-SNAPSHOT'
 bootJar.enabled(true)
 jar.enabled(false)
 
-sourceCompatibility = JavaVersion.VERSION_17
+sourceCompatibility = JavaVersion.VERSION_11
 
 repositories {
     mavenCentral()
