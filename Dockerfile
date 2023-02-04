@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:alpine-jre
+FROM openjdk:11-jdk
 
 RUN apt-get update && apt-get -y install sudo
 
