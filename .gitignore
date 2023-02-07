@@ -2,6 +2,7 @@
 /.gradle/
 /build/
 /.idea/
+/note/
 
 # Compiled class file
 *.class
